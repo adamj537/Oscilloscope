@@ -14,13 +14,13 @@ public class GnuPlot
     public GnuPlot()
     {
         // Default path for gnuplot
-        this.Path = System.IO.Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ProgramFiles), "gnuplot\\bin\\gnuplot.exe");
+        Path = System.IO.Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ProgramFiles), "gnuplot\\bin\\gnuplot.exe");
         // TODO: Check if path is valid
     }
 
     public GnuPlot(string path)
     {
-        this.Path = path;
+        Path = path;
     }
 
     /// <summary>
