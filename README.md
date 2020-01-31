@@ -103,7 +103,7 @@ Assembly referenced by projects are located into:
 
 - C:\Program Files\IVI Foundation\VISA\Microsoft.NET\Framework64\v2.0.50727\VISA.NET Shared Components 5.8.0
 
-See [Rigol Documentation](https://www.rigol.eu/products/digital-oscilloscopes/1000/) for commands to interact with the oscilloscope
+See [Rigol Documentation](https://www.rigolna.com/products/digital-oscilloscopes/1000/) for commands to interact with the oscilloscope
 
 
 ## GNUPLOT
